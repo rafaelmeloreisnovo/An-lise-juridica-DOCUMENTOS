@@ -83,6 +83,129 @@ Modelos de escritos judiciales
 
 
 ---
+Русский (Russo)
+
+Заголовок: Юридический анализ – ДОКУМЕНТЫ
+Резюме: Сбор и структурирование открытых правовых источников (конституции, законы, договоры, судебная практика) для создания надежной базы, пригодной для цитирования и защиты прав человека в цифровую эпоху.
+Объем:
+
+Сравнение конституционных норм
+
+Оценка защиты данных и этики ИИ
+
+Папки доказательств с ссылками
+
+Шаблоны процессуальных документов
+
+
+
+---
+
+Polski (Polonês)
+
+Tytuł: Analiza prawna – DOKUMENTY
+Streszczenie: Repozytorium gromadzi i ocenia publiczne źródła prawne w celu stworzenia solidnej, możliwej do cytowania bazy dla ochrony praw w erze cyfrowej.
+Zakres:
+
+Porównanie konstytucji i traktatów
+
+Ocena ochrony danych/etyki AI
+
+Foldery dowodowe z odnośnikami
+
+Wzory pism procesowych
+
+
+
+---
+
+Svenska (Sueco)
+
+Titel: Juridisk Analys – DOKUMENT
+Sammanfattning: Samling och granskning av offentliga rättskällor (grundlagar, lagar, avtal, rättspraxis) för att skapa en tillförlitlig och citerbar bas för rättighetsskydd i den digitala eran.
+Omfattning:
+
+Jämförelse av rättigheter
+
+Bedömning av dataskydd/AI-etik
+
+Bevismappar med källor
+
+Mallar för rättsliga dokument
+
+
+
+---
+
+Íslenska (Islandês)
+
+Titill: Lögfræðileg greining – SKJÖL
+Samantekt: Söfnun og greining opinberra lagalegra heimilda (stjórnarskrár, lög, samningar, dómafordæmi) til að byggja upp áreiðanlegan og tilvitnanlegan grunn til verndar réttindum á stafrænum tímum.
+Umfang:
+
+Samanburður á stjórnarskrám og rétti
+
+Mat á gagnavernd/siðfræði AI
+
+Sönnunargögn með tilvísunum
+
+Sniðmát fyrir lögfræðileg skjöl
+
+
+
+---
+
+हिन्दी (Hindi / Indí)
+
+शीर्षक: विधिक विश्लेषण – दस्तावेज़
+सारांश: संविधान, क़ानून, संधियाँ और न्यायिक मामलों जैसे सार्वजनिक विधिक स्रोतों का संग्रह और विश्लेषण, ताकि डिजिटल युग में अधिकारों की रक्षा के लिए एक विश्वसनीय और उद्धृत करने योग्य आधार बनाया जा सके।
+परिसर:
+
+संवैधानिक प्रावधानों की तुलना
+
+डेटा सुरक्षा/एआई नैतिकता का मूल्यांकन
+
+संदर्भ सहित साक्ष्य फ़ोल्डर
+
+वाद पत्रों के टेम्पलेट
+
+
+
+---
+
+한국어 (Coreano)
+
+제목: 법률 분석 – 문서
+요약: 헌법, 법률, 조약, 판례 등 공개된 법적 자료를 수집·분석하여 디지털 시대 권리 보호를 위한 신뢰할 수 있고 인용 가능한 기반을 구축한다.
+범위:
+
+헌법 및 권리 비교
+
+데이터 보호/AI 윤리 평가
+
+증거 폴더와 참고문헌
+
+소송 서류 템플릿
+
+
+
+---
+
+🔗 Bloco PT-BR (para abrir cada versão):
+
+Título: Análise Jurídica – DOCUMENTOS
+Resumo: Repositório que centraliza constituições, leis, tratados e jurisprudências globais. Objetivo: estruturar uma base sólida e citável para defesa de direitos fundamentais, dignidade, privacidade e ética digital.
+Escopo:
+
+Comparação multijurisdicional
+
+Avaliação de proteção de dados/ética em IA
+
+Dossiês com referências oficiais
+
+Modelos de peças processuais
+
+
 
 ---
 
